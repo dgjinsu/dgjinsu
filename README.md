@@ -45,12 +45,16 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"> 
 </div>
 
-<br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgjinsu&show_icons=true&theme=radical)
 <br/><br/>
+
+## 👨🏻‍💻 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgjinsu&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgjinsu&layout=compact)](https://github.com/delay-100/github-readme-stats)
 
+<br/><br/>
+
+## 🎗️ Baekjoon solved rank
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinsu3206)](https://solved.ac/백준아이디/)
 
 <!--
 **dgjinsu/dgjinsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
