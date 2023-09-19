@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-3E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">  
+<img src="https://img.shields.io/badge/nginx-%23269539.svg?&style=for-the-badge&logo=nginx&logoColor=white">
 </div>
 
 <div>
