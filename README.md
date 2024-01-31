@@ -1,6 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=Hi!+I'm+Jinsu+Kim&fontSize=65&fontColor=2E2E2E&animation=twinkling) 
 
 
+### 🙋‍♂️ Hi there! I'm Kim Jinsoo 
+I'm studying Java backend development and DevOps.
+
+<br><br>
+
+
 ## 💻 Tech Stacks 💻
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
