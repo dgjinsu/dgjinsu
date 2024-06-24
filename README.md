@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=Hi!+I'm+Jinsu+Kim&fontSize=65&fontColor=2E2E2E&animation=twinkling) 
 
 👋 Hi there! I'm Jinsu Kim <br>
-👀 I'm interested in back-end developer using Spring-Boot!!
+👀 I'm interested in back-end developer using Spring-Boot!
 
 <br><br>
 
